@@ -4,13 +4,15 @@
 springboot2.x整合Redis实现简单的token登录鉴权
 
 https://www.jianshu.com/p/25402229376e
+
 https://github.com/Hub-panpan/tokenAuth.git
 
 #### 软件架构
-软件架构说明
+软件架构说明是大师风范啊手动阀阿斯蒂芬啊
 
 #### 安装教程
 首先安装docker,在docker中安装mysql和redies数据库
+创建相应的表结构 
 
 1. 修改application.properties中的mysql和redis路径
 2. 启动项目
@@ -19,9 +21,9 @@ https://github.com/Hub-panpan/tokenAuth.git
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 爽歪歪
+2. xxxx阿斯蒂芬
+3. xxxx啊倒萨打算发
 
 #### 参与贡献
 
