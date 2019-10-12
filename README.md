@@ -8,7 +8,7 @@ https://www.jianshu.com/p/25402229376e
 https://github.com/Hub-panpan/tokenAuth.git
 
 #### 软件架构
-软件架构说明是大师风范啊手动阀阿斯蒂芬啊
+软件架构说明
 
 #### 安装教程
 首先安装docker,在docker中安装mysql和redies数据库
